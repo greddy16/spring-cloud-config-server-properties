@@ -1,1 +1,15 @@
-
+carriermappings:
+  HashMap:
+    3BJ:
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
