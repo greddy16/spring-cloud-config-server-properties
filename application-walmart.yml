@@ -1,0 +1,15 @@
+carriermappings:
+  HashMap:
+    WALMART:
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
+      - carrierid: carrierid
+        accountid: accountid
+        groupid: groupid
