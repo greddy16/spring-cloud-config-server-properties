@@ -3,10 +3,6 @@ spring:
     name: login-api
   jackson:
     default-property-inclusion: NON_NULL
-  profiles:
-    include:
-    - walmart
-    - msc
    
 prop:
   user-validation-v3-uri: https://gateway-stage.optum.com/api/stage/cel/rx/commoncapability/v2.0/validatev3/login.json
