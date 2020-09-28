@@ -1,6 +1,1 @@
-spring:
-  profiles:
-    include:
-    - walmart
-    - msc
-    - 3bj
+
