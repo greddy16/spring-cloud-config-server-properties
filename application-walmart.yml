@@ -1,6 +1,4 @@
-carriermappings:
-  HashMap:
-    WALMART:
+WALMART:
       - carrierid: carrierid
         accountid: accountid
         groupid: groupid
