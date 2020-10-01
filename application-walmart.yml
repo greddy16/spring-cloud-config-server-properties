@@ -1,4 +1,6 @@
-WALMART:
+carriermappings:
+  WALMART:
+    3BJ:
       - carrierid: WMARTRX
-        accountid:
-        groupid:
+        accountid: 
+        groupid: 
