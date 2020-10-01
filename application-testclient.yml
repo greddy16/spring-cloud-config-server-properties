@@ -1,6 +1,6 @@
 carriermappings:
   HashMap:
-    MSC:
+    TESTCLIENT:
       - carrierid: PDPIND
         accountid: 
         groupid: 
