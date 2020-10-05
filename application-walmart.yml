@@ -4,3 +4,6 @@ carriermappings:
       - carrierid: WMARTRX
         accountid: 
         groupid: 
+      - carrierid: WMARTRX2
+        accountid: 
+        groupid: 
