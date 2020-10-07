@@ -1,6 +1,6 @@
 carriermappings:
   HashMap:
     WALMART:
-      - carrierid: WMARTRX1234
+      - carrierid: WMARTRX
         accountid: 
         groupid: 
