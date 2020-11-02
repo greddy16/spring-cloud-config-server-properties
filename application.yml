@@ -1,4 +1,4 @@
-spring:
-  profiles:
-    include:
-    - default
+#spring:
+#  profiles:
+#    include:
+#    - default
